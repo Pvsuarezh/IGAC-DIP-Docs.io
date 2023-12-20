@@ -4,7 +4,7 @@
 
 ¡Bienvenido a la plantilla de documentación de código! Esta documentación proporciona una visión general del proyecto, sus objetivos, su estructura y cómo contribuir de manera efectiva. Es importante revisar esta sección para comprender el propósito del proyecto y cómo tu contribución puede alinearse con sus metas.
 
-![Imagen de ejemplo](url_de_la_imagen)
+![Imagen de ejemplo](img/Captura1.png)
 
 ## Introducción
 La descripción general de la sección va aquí. Este proyecto tiene como objetivo [Describir brevemente el propósito o la finalidad del proyecto].
