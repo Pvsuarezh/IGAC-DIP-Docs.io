@@ -8,6 +8,9 @@
 
 ## Introducción
 La descripción general de la sección va aquí. Este proyecto tiene como objetivo [Describir brevemente el propósito o la finalidad del proyecto].
+
+### Github Code Example:
+You can embed your code snippets using Github gists:
 ```javascript
 function $initHighlight(block, cls) {
 try {
