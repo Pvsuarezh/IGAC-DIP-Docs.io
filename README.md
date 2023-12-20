@@ -9,6 +9,8 @@
 ## Introducción
 La descripción general de la sección va aquí. Este proyecto tiene como objetivo [Describir brevemente el propósito o la finalidad del proyecto].
 
+![Imagen de ejemplo](img/Captura2.png)
+
 ## Instalación
 La descripción general de la sección va aquí. [Describir cualquier configuración adicional necesaria o variables de entorno aquí, si corresponde].
 
