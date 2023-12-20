@@ -44,7 +44,7 @@ export $initHighlight;
 -  **SCSS** source files included
 -  FontAwesome icons
 -  Compatible with all modern browsers
--  
+  
 ## Instalación
 La descripción general de la sección va aquí. [Describir cualquier configuración adicional necesaria o variables de entorno aquí, si corresponde].
 
