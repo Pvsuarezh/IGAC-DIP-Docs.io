@@ -31,6 +31,20 @@ export $initHighlight;
 ```
 ![Imagen de ejemplo](img/Captura2.png)
 
+## Última Versión
+**Bootstrap 5 v3.0** - 2023-06-23
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/coderdocs-free-bootstrap-5-documentation-template-for-software-projects/?target=changelog)
+
+## Caracteristicas
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 5
+-  **SCSS** source files included
+-  FontAwesome icons
+-  Compatible with all modern browsers
+-  
 ## Instalación
 La descripción general de la sección va aquí. [Describir cualquier configuración adicional necesaria o variables de entorno aquí, si corresponde].
 
@@ -60,4 +74,4 @@ La descripción general de la sección va aquí. Esta sección aborda las pregun
 Inicie su proyecto de software de forma estandarizada y profesional
 "Empieza a editar esta plantilla para lanzar tu proyecto de software y establecer tus objetivos. Contiene todas las herramientas necesarias para promocionar tu producto, ajustándose a las pautas internas del IGAC y de la Dirección de Investigación y Prospectiva."
 
-Creada por Alexander Ariza, inspirada en love la plantilla de Xiaoying Riley para desarrolladores. Last update: 15 Diciembre de 2023
+Creada por [Alexander Ariza](https://gist.github.com/Alexanderariza), inspirada en love la plantilla de [Xiaoy ing Riley](https://themes.3rdwavemedia.com/) para desarrolladores. Last update: 15 Diciembre de 2023
