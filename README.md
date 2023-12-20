@@ -11,6 +11,9 @@ La descripción general de la sección va aquí. Este proyecto tiene como objeti
 
 ### Github Code Example:
 You can embed your code snippets using Github gists:
+
+<script src="https://gist.github.com/Alexanderariza/77ee9af6b3d90aa6a3bb139a42f5fef2.js"></script>
+
 ```javascript
 function $initHighlight(block, cls) {
 try {
