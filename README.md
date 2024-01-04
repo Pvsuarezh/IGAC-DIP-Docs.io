@@ -53,7 +53,21 @@ var Entropia = glcm_ibague.select('b4_ent');
     seeds: seeds
     });
   var imageObject = segment1.select(['b.*']);
-//Clasificación 
+//Clasificación
+
+//Imagen a clasificar
+var imageStacking3 = ee.Image.cat([
+  imageObject1,
+  ndvi2,
+  ndwi,
+  pisi,
+  contrast,
+  variance,
+  homogenity,
+  Entropia
+  ]);
+print('Img 4B + Media + I.Espect+I.Text',imageStacking3);
+
 ///Definir puntos de entrenamiento
 var puntos_train = PuntosEntrenam;
 var puntos_train = puntos_train.randomColumn();
