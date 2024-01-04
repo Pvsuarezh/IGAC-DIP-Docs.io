@@ -1,14 +1,17 @@
 # IGAC-DIP-Docs
 
-# Plantilla para la Documentación de Códigos de la Dirección de Investigación y Prospectiva del IGAC
-
+# Proyecto de Investigación: Identificación de asentamientos irregulares desde la extracción de cubiertas con imágenes de sensores remotos
 ¡Bienvenido a la plantilla de documentación de código! Esta documentación proporciona una visión general del proyecto, sus objetivos, su estructura y cómo contribuir de manera efectiva. Es importante revisar esta sección para comprender el propósito del proyecto y cómo tu contribución puede alinearse con sus metas.
 
-![Imagen de ejemplo](img/Captura1.png)
-
 ## Introducción
-La descripción general de la sección va aquí. Este proyecto tiene como objetivo [Describir brevemente el propósito o la finalidad del proyecto].
+Las ciudades, son espacios de oportunidades, con crecimientos acelerados que de no seguirse adecuadamente propicia espacios de precariedad para sus ciudadanos; los espacios precarios cuentan con poca información de su evolución en el tiempo; no obstante, múltiples acciones a nivel mundial se han tomado para atender espacios de carencia (asentamientos irregulares), combinando tecnologías satelitales de Observación de la Tierra (EO) para reconocerlos. Los avances se han direccionado en múltiples vertientes, generando avances en “mapear” esta dinámica territorial para generar datos confiables y entregarlos a tomadores de decisiones
+El objetivo del proyecto es presentar una metodologia que aporte en la identificación de este tipo de espacios para asi generar información confiable sobre estos. El presente documento se expone entonces el proceso de identificación de los asentamientos irregulares haciendo uso de imagenes de sensores remotos y del proceso de clasificación a través del software Google Earth Engine (GEE). 
 
+[MetodologiaProyecto2023.png]
+
+El codigo se organiza en 4 partes: 
+
+En las fases 1 y 2 se busca generar rasters que contribuyan a mejorar la clasificación de los asentamientos, en la fase 1 se genera un raster de cambio de cobertura en dos epocas, en la fase 2 se extraen 
 ### Github Code Example:
 You can embed your code snippets using Github gists:
 
