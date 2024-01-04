@@ -7,7 +7,7 @@
 Las ciudades, son espacios de oportunidades, con crecimientos acelerados que de no seguirse adecuadamente propicia espacios de precariedad para sus ciudadanos; los espacios precarios cuentan con poca información de su evolución en el tiempo; no obstante, múltiples acciones a nivel mundial se han tomado para atender espacios de carencia (asentamientos irregulares), combinando tecnologías satelitales de Observación de la Tierra (EO) para reconocerlos. Los avances se han direccionado en múltiples vertientes, generando avances en “mapear” esta dinámica territorial para generar datos confiables y entregarlos a tomadores de decisiones
 El objetivo del proyecto es presentar una metodologia que aporte en la identificación de este tipo de espacios para asi generar información confiable sobre estos. El presente documento se expone entonces el proceso de identificación de los asentamientos irregulares haciendo uso de imagenes de sensores remotos y del proceso de clasificación a través del software Google Earth Engine (GEE). 
 
-[MetodologiaProyecto2023.png]
+![Imagen de ejemplo](img/MetodologiaProyecto2023_1.png)
 
 El codigo se organiza en 4 partes: 
 
